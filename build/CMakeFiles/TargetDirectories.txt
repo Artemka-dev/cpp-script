@@ -1,3 +1,0 @@
-/home/artem/cpp/build/CMakeFiles/rebuild_cache.dir
-/home/artem/cpp/build/CMakeFiles/edit_cache.dir
-/home/artem/cpp/build/CMakeFiles/Script.dir
