@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Script.dir/script.cpp.o  -o Script 
